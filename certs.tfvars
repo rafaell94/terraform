@@ -1,0 +1,1 @@
+akamai_common_names         =   ["test100.rafa.cr","test200.rafa.cr","test300.rafa.cr"]
